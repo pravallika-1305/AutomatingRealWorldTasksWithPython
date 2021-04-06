@@ -1,0 +1,2 @@
+# AutomatingRealWorldTasksWithPython
+Weekly Course Projects 
