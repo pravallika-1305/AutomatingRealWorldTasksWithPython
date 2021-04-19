@@ -33,7 +33,7 @@ for file in os.listdir("/data/feedback/"):
     Use the request.post() method to make a POST request to http://<corpweb-external-IP>/feedback. 
     Replace <corpweb-external-IP> with corpweb's external IP address.
     '''
-    response = requests.post("http://35.225.95.53/feedback/",json = content)
+    response = requests.post("http://35.202.201.41/feedback/",json = content)
 
     '''
     You can print the status_code and text of the response objects to check out what's going on. 
